@@ -14,7 +14,7 @@
 5 - git commit, juntamente com uma mensagem informando o que foi realizado
 <br>
 </p> 
-<br>
 <b><i>'o aprendizado é uma evolução constante...'</i></b>
+<br>
 <br>
 <b><i>Todos os dias são uma oportunidade para recomeçar e para planejar um novo caminho. Siga com fé e acredite em você.</i></b>
