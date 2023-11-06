@@ -1,4 +1,4 @@
-# <h1>este é um arquivo sobre aprender git</h1>
+# <h1>Este é um arquivo sobre aprender git</h1>
 <p> estou começando a entender como funciona o controle de versionamento.</p>
 <p>depois, irei começar a utilizar o github juntamente com um projeto pessoal</p>
 <h6>passo a passo para o controle de versionamento git.</h6>
@@ -17,4 +17,5 @@
 <b><i>'o aprendizado é uma evolução constante...'</i></b>
 <br>
 <br>
-<b><i>Todos os dias são uma oportunidade para recomeçar e para planejar um novo caminho. Siga com fé e acredite em você.</i></b>
+<b><i>Todos os dias são uma oportunidade para recomeçar e para planejar um novo caminho. 
+<br>Siga com fé e acredite em você.</i></b>
