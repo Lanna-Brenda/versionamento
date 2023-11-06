@@ -7,3 +7,4 @@
 3 - utilize o git status para saber como está o projeto
 4 - se realizou alguma alteração, git add
 5 - git commit, juntamente com uma mensagem informando o que foi realizado
+'o aprendizado é uma evolução constante...'
