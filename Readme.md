@@ -8,3 +8,4 @@
 4 - se realizou alguma alteração, git add
 5 - git commit, juntamente com uma mensagem informando o que foi realizado
 'o aprendizado é uma evolução constante...'
+Todos os dias são uma oportunidade para recomeçar e para planejar um novo caminho. Siga com fé e acredite em você.
